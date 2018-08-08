@@ -19,6 +19,7 @@ function destructivelyRemoveFirstKitten() {
  
 }
 
-// function appendKitten(name)
+function appendKitten(name)
+  kittens 
   
   
